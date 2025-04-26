@@ -22,7 +22,7 @@ In this section I list data‐analytics projects, briefly describing the technol
 
 ### E-commerce Purchases Analysis
 
-**Code:** `E-commerce Purchases Dataset.ipynb`  
+**Code:** https://github.com/sam-Adk/Data-analysis-project/blob/main/E-%20commerce%20purchases%20dataset.ipynb
 **Goal:** Identify which factors contribute most to tax revenue from E-commerce sales.
 
 **Description:**  
@@ -38,7 +38,7 @@ In this section I list data‐analytics projects, briefly describing the technol
 
 ### London Housing Data Analysis
 
-**Code:** `London Housing Data Set.ipynb`  
+**Code:**   https://github.com/sam-Adk/Data-analysis-project/blob/main/London%20Housing%20Data%20Set.ipynb
 **Goal:** Examine how housing costs in London have changed over time.
 
 **Description:**  
