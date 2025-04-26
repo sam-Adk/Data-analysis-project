@@ -6,7 +6,7 @@ In this section I list data‐analytics projects, briefly describing the technol
 
 ### Cleaning and Analyzing a Police Dataset
 
-**Code:** `Cleaning and Analyzing a Police DataSets.ipynb`  
+**Code:** https://github.com/sam-Adk/Data-analysis-project/blob/main/Cleaning%20and%20analysing%20a%20Police%20DataSets.ipynb
 **Goal:** Determine which demographic factors (gender, age, race) are most associated with reckless driving.
 
 **Description:**  
