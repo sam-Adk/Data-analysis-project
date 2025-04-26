@@ -59,7 +59,6 @@ In this section I list data‐analytics projects, briefly describing the technol
 
 **Description**
 -Calculate descriptive statistics (mean, median, IQR) for salaries, overtime, other_salaries, total_benefits, and total_compensation columns 
-docs.datasf.org
 -cleaning and analyzing the datasets missing values
 
 
