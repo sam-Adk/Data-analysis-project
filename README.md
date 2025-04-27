@@ -14,7 +14,7 @@ In this section I list data‐analytics projects, briefly describing the technol
 **Description**
 - involves cleaning anlyzing datasets to coming up with a conclusion
 - focusing on determining what determines the level of income based on gander ,age and level of education
-- found out men were more male  had more chance to get more salaries above 50k than females
+- found out  more male  had more chance to get more salaries above 50k than females
 - also found out that some workclass were paid more than other working class
 - also the income increaed with age
 
