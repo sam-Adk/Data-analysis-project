@@ -1,8 +1,23 @@
+
 ## Portfolio Projects
 
 In this section I list data‐analytics projects, briefly describing the technology stack used to solve each case.
 
 ---
+
+###Adult Csv Project
+
+**code**https://github.com/sam-Adk/Data-analysis-project/blob/main/Adult%20Csv%20project.ipynb
+
+**Goal** determine if age gender and eduational level determine the level of income
+
+**Description**
+-involves cleaning anlyzing datasets to coming up with a conclusion
+-focusing on determining what determines the level of income based on gander ,age and level of education
+-found out men were more male  had more chance to get more salaries above 50k than females
+-also found out that some workclass were paid more than other working class
+-also the income increaed with age
+
 
 ### Cleaning and Analyzing a Police Dataset
 
