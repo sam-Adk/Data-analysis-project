@@ -5,6 +5,27 @@ In this section I list data‐analytics projects, briefly describing the technol
 
 ---
 
+
+### Procurement KPI analysis
+
+**code** https://github.com/sam-Adk/Data-analysis-project/blob/main/Procurement%20KPI%20Analysis%20Dataset.ipynb
+
+**Goal** This workflow—data ingestion, cleaning, KPI computation, and visualization—is a solid foundation for procurement performance analysis
+
+**Desription**
+
+- Data quality (missing values)
+
+- Supplier performance, via metrics like defective units and delivery frequency
+
+- Cost analysis, via unit prices versus negotiated prices
+
+- Category-level pricing trends
+
+- Distributional patterns of prices
+
+
+
 ### Adult Csv Project
 
 **code**https://github.com/sam-Adk/Data-analysis-project/blob/main/Adult%20Csv%20project.ipynb
