@@ -8,7 +8,7 @@ In this section I list data‐analytics projects, briefly describing the technol
 
 ### Googgle Playstore App Data set
 
-**Code**https://github.com/sam-Adk/Data-analysis-project/blob/main/Google%20PlayStore%20App%20DATA%20set%20(1).ipynb
+**Code** https://github.com/sam-Adk/Data-analysis-project/blob/main/Google%20PlayStore%20App%20DATA%20set%20(1).ipynb
 
 **Goal** the main purpose was to i dentify what influences app downloads and purchases on Google playstore
 
