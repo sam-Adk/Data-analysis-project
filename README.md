@@ -6,6 +6,20 @@ In this section I list data‐analytics projects, briefly describing the technol
 ---
 
 
+### Googgle Playstore App Data set
+
+**Code**https://github.com/sam-Adk/Data-analysis-project/blob/main/Google%20PlayStore%20App%20DATA%20set%20(1).ipynb
+
+**Goal** the main purpose was to i dentify what influences app downloads and purchases on Google playstore
+
+**Description**
+
+- I found out that Free apps were more downloaded than those that were to be purchased
+- 
+- some unique had the highest ratings ,eg events and education
+- 
+- apps that had the maximum Reviews were Facebook and whatsapp
+  
 ### Procurement KPI analysis
 
 **code** https://github.com/sam-Adk/Data-analysis-project/blob/main/Procurement%20KPI%20Analysis%20Dataset.ipynb
@@ -17,7 +31,7 @@ In this section I list data‐analytics projects, briefly describing the technol
 - Data quality (missing values)
 
 - Supplier performance, via metrics like defective units and delivery frequency
-
+- 
 - Cost analysis, via unit prices versus negotiated prices
 
 - Category-level pricing trends
