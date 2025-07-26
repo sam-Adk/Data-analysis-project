@@ -5,6 +5,73 @@ In this section I list data‐analytics projects, briefly describing the technol
 
 ---
 
+### Youtube  and Spotify Dataset
+
+**code** https://github.com/sam-Adk/Data-analysis-project/blob/main/youtube%20and%20spotify%20dataset.ipynb
+
+
+**Goal**  The goal of this project is to analyze how different engagement metrics—such as likes, comments, views (on YouTube) and popularity scores or follower counts (on Spotify)—influence the number of streams a song or video receives. By comparing YouTube and Spotify data, the analysis aims to uncover patterns in listener/viewer behavior and determine whether social engagement can predict streaming succes
+
+**Description**  
+
+-Positive Correlation Between Views and Streams: Videos with more YouTube views generally correspond to higher Spotify streaming numbers, suggesting that exposure on one platform may influence listening on another.
+
+-Likes Matter More Than Comments: While comments are valuable for engagement, the number of likes showed a stronger relationship with total streams, indicating that positive viewer sentiment may better reflect popularity.
+
+-Outliers Exist: Some tracks had relatively low YouTube engagement but high Spotify streams, likely due to playlist placements or artist popularity. Conversely, some viral videos did not translate to Spotify success.
+
+-Release Timing and Genre: Songs released closer to peak streaming periods (e.g., weekends or holidays) tended to perform better. Certain genres (e.g., pop, hip-hop) showed stronger cross-platform engagement
+
+## 📁 Data Sources
+
+- YouTube data scraped using [YouTube API / third-party tool]
+- Spotify track and artist data obtained via Spotify Web API
+- Data cleaned and merged using Python (pandas), with visualization using seaborn/matplotlib
+
+## 🔍 Methods
+
+- Correlation analysis between views, likes, comments, and Spotify streams
+- Regression models to test predictive power of engagement metrics
+- Outlier detection for viral content with unusual patterns
+
+
+
+
+
+
+
+
+
+
+
+### India Census Data
+
+
+**code** https://github.com/sam-Adk/Data-analysis-project/blob/main/india%20census.ipynb
+
+**Goal** The goal of this project is to explore demographic trends in India's population using census data. This includes analyzing population growth, age distribution, rural vs urban populations, and state-wise comparisons to identify long-term patterns and regional difference
+
+**Description** 
+
+
+-Gender Ratio: Several northern states show a gender imbalance, with fewer females per 1,000 males, while some southern states have near-equal or better female-to-male ratios.
+
+-Literacy Rates: Kerala has the highest literacy rate, while Bihar and Arunachal Pradesh have some of the lowest.
+
+-Urbanization: States like Delhi and Maharashtra are highly urbanized, while states like Bihar and Assam remain predominantly rural.
+
+-Workforce Participation: A significant portion of the female population is not part of the formal labor force, especially in rural region
+
+
+
+
+
+
+
+
+
+
+
 
 ### Googgle Playstore App Data set
 
